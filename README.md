@@ -485,7 +485,7 @@ AI Developer • Software Developer • Content Creator
 
 <br><br>
 
-<a href="https://youtube.com/@codeninjavik">
+<a href="https://youtube.com/@codeninjavikofficial">
 <img src="https://img.shields.io/badge/🎥_YouTube-CodeNinjaVik_Official-FF0000?style=for-the-badge&logo=youtube">
 </a>
 
