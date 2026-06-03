@@ -1,97 +1,169 @@
 # 🤖 MYRA AI Assistant
 
 <p align="center">
-  <img src="https://via.placeholder.com/200x200.png?text=MYRA+AI" alt="MYRA Logo" width="180">
+  <img src="https://raw.githubusercontent.com/codeninjavik/MYRA-AI-ASSISTANT-/main/image.png" width="220" alt="MYRA Logo">
 </p>
 
-<h3 align="center">🚀 Advanced AI-Powered Desktop Assistant</h3>
+<h1 align="center">MYRA AI Assistant</h1>
+
+<h3 align="center">
+🚀 Advanced AI-Powered Desktop Assistant for Windows
+</h3>
 
 <p align="center">
-  Voice Commands • AI Conversations • Automation • System Control • Productivity Tools
+Voice Commands • AI Automation • Screen Reading • Computer Vision • System Control • Human-Like Voice • Productivity Tools
+</p>
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge\&logo=python)
+![Windows](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)
+![AI](https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-0.1.4-green?style=for-the-badge)
+
 </p>
 
 ---
 
-## 📖 About MYRA
+# 📖 About MYRA
 
-MYRA AI Assistant is an advanced AI-powered desktop assistant developed in Python. It combines voice commands, intelligent conversations, automation, system control, and productivity tools into a single modern application.
+MYRA AI Assistant is a next-generation AI-powered desktop assistant built entirely in Python.
 
-MYRA is designed to help users interact with their computer naturally through speech, automate daily tasks, and provide a personalized AI experience.
+MYRA combines advanced voice interaction, AI reasoning, automation, computer vision, screen understanding, system management, and productivity tools into one intelligent assistant.
+
+It is designed to help users control their PC naturally through voice commands while providing a human-like AI experience.
 
 ---
 
-## ✨ Features
+# ✨ Core Features
 
-### 🎤 Voice Interaction
+## 🎤 Voice Assistant
 
-* Voice Commands
+* Human-like AI Voice
+* Real-time Conversations
 * Speech Recognition
-* Natural Conversations
+* Natural Language Understanding
 * Wake Word Support
+* Multi-language Support
 
-### 🧠 AI Intelligence
+---
+
+## 🧠 AI Intelligence
 
 * Gemini AI Integration
-* OpenRouter Support
-* Context-Aware Responses
-* Smart Decision Making
+* OpenRouter Integration
+* Context-Aware Memory
+* Smart Responses
+* Deep Research Capability
+* Intelligent Task Execution
 
-### 💻 System Control
+---
+
+## 👀 Screen Understanding
+
+MYRA can understand what's happening on your screen.
+
+* Real-time Screen Reading
+* UI Element Detection
+* OCR Text Reading
+* Application Understanding
+* Dynamic Screen Analysis
+
+---
+
+## 📷 Computer Vision
+
+MYRA can see and understand images using camera access.
+
+* Camera Access
+* Object Detection
+* Scene Understanding
+* Image Analysis
+* Visual AI Assistance
+
+---
+
+## ⚙️ Automation Engine
 
 * Open Applications
 * Close Applications
-* Control Volume
-* Brightness Management
-* System Information
-
-### ⚡ Automation
-
+* Search Anything
+* Execute Commands
 * Task Automation
-* Smart Workflows
-* Productivity Shortcuts
-* Command Execution
-
-### 🎨 User Experience
-
-* Modern UI
-* Real-Time Responses
-* Fast Performance
-* Easy Setup
+* Workflow Automation
 
 ---
 
-## 🛠 Requirements
+## 💻 Windows Control
 
-* Windows 10 / 11
-* Internet Connection
-* Microphone
-* Speaker / Headphones
+* Volume Control
+* Brightness Control
+* System Monitoring
+* Window Management
+* File Management
+* Clipboard Control
+
+---
+
+## 🌐 Internet & Productivity
+
+* News Search
+* Web Browsing
+* Information Retrieval
+* Website Generation
+* Website Publishing
+* Productivity Assistance
+
+---
+
+## 💬 Communication Features
+
+* WhatsApp Messaging
+* WhatsApp Automation
+* Message Sending
+* Contact Management
+
+---
+
+## 📁 File Management
+
+* Create Files
+* Delete Files
+* Rename Files
+* Organize Folders
+* Smart Search
+
+---
+
+## 🎨 Modern User Interface
+
+* Futuristic UI
+* Real-Time Animations
+* Live Status Monitoring
+* Voice Wave Animation
+* Responsive Design
 
 ---
 
 # 📦 Installation
 
-## Method 1: Install from PyPI
-
-### Upgrade pip
-
-```bash
-python -m pip install --upgrade pip
-```
-
-### Install MYRA
+## Install MYRA
 
 ```bash
 pip install myra-ai-assistant
 ```
 
-### Upgrade MYRA
+---
+
+## Update MYRA
 
 ```bash
 pip install --upgrade myra-ai-assistant
 ```
 
-### Verify Installation
+---
+
+## Verify Installation
 
 ```bash
 pip show myra-ai-assistant
@@ -99,9 +171,9 @@ pip show myra-ai-assistant
 
 ---
 
-## 🚀 Running MYRA
+# 🚀 Running MYRA
 
-Start MYRA using:
+Launch MYRA:
 
 ```bash
 myra
@@ -115,44 +187,80 @@ python -m myra_ai_assistant
 
 ---
 
-## 🔄 Update MYRA
+# 📸 Screenshots
 
-Update to the latest version:
+## 🔐 Login Interface
 
-```bash
-pip install --upgrade myra-ai-assistant
-```
+The modern login page allows users to securely access MYRA and manage their AI assistant profile.
 
-Check current version:
-
-```bash
-pip show myra-ai-assistant
-```
+<p align="center">
+<img src="https://raw.githubusercontent.com/codeninjavik/MYRA-AI-ASSISTANT-/main/Screenshot%202026-06-03%20213007.png" width="900">
+</p>
 
 ---
 
-## ❌ Uninstall MYRA
+## ⚡ Activation Center
 
-```bash
-pip uninstall myra-ai-assistant
-```
+The activation screen enables API configuration, AI activation, and assistant initialization.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/codeninjavik/MYRA-AI-ASSISTANT-/main/Screenshot%202026-05-31%20223049.png" width="900">
+</p>
 
 ---
 
-## 📂 Project Structure
+## 🎨 MYRA Main Interface
+
+The primary MYRA dashboard featuring modern AI controls, voice interaction, and live assistant monitoring.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/codeninjavik/MYRA-AI-ASSISTANT-/main/Screenshot%202026-06-03%20213045.png" width="900">
+</p>
+
+---
+
+## 🖥 Terminal Execution
+
+Command-line startup and execution process of MYRA AI Assistant.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/codeninjavik/MYRA-AI-ASSISTANT-/main/Screenshot%202026-06-03%20213147.png" width="900">
+</p>
+
+---
+
+# 🛠 Technologies Used
+
+* Python
+* Gemini AI
+* OpenRouter
+* Speech Recognition
+* Text To Speech
+* Computer Vision
+* OCR
+* Automation Frameworks
+* Windows APIs
+* Modern UI Components
+
+---
+
+# 📂 Project Structure
 
 ```text
 MYRA-AI-ASSISTANT/
 │
 ├── myra/
-│   ├── core/
 │   ├── ai/
 │   ├── voice/
-│   ├── ui/
 │   ├── automation/
+│   ├── vision/
+│   ├── screen_reader/
+│   ├── system_control/
+│   ├── ui/
 │   └── utils/
 │
 ├── assets/
+├── screenshots/
 ├── requirements.txt
 ├── setup.py
 ├── README.md
@@ -161,60 +269,31 @@ MYRA-AI-ASSISTANT/
 
 ---
 
-## 🧩 Technologies Used
+# 👨‍💻 Developer
 
-* Python
-* Gemini AI
-* OpenRouter
-* Speech Recognition
-* Text To Speech
-* Automation Tools
-* Modern Desktop UI
+### CodeNinjaVik
+
+GitHub:
+https://github.com/codeninjavik
 
 ---
 
-## 📸 Screenshots
+# ⭐ Support
 
-Add screenshots of MYRA here.
+If you find MYRA useful:
 
-```markdown
-![MYRA Screenshot](screenshots/home.png)
-```
+⭐ Star this repository
 
----
+🍴 Fork the project
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome.
-
-1. Fork the repository
-2. Create a new branch
-3. Commit changes
-4. Push to GitHub
-5. Create a Pull Request
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-## 👨‍💻 Author
-
-**Vikash Kumar**
-
-GitHub: https://github.com/vikashkumar14
-
----
-
-## ⭐ Support
-
-If you like MYRA AI Assistant, please give this repository a star ⭐ and share it with others.
+📢 Share it with others
 
 ---
 
 <p align="center">
-Made with ❤️ by Vikash Kumar
+
+### ❤️ Built with Python & AI
+
+### Developed by CodeNinjaVik
+
 </p>
