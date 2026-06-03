@@ -383,7 +383,7 @@ Premium users unlock advanced capabilities.
 
 🌐 Website: <a href="https://codeninjavik.in">codeninjavik.in</a>
 
-🎥 YouTube: <a href="https://youtube.com/@codeninjavikofficil">CodeNinjaVik Official</a>
+🎥 YouTube: <a href="https://youtube.com/@codeninjavikofficial">CodeNinjaVik Official</a>
 
 📢 Telegram: <a href="https://t.me/codeninja_vik">@codeninja_vik</a>
 
