@@ -343,35 +343,76 @@ Premium users unlock advanced capabilities.
 
 # 🌍 Connect With CodeNinjaVik
 
-## 🌐 Official Website
+<p align="center">
 
-https://codeninjavik.in
+<a href="https://codeninjavik.in" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Official_Website-codeninjavik.in-blue?style=for-the-badge">
+</a>
+
+<br><br>
+
+<a href="https://youtube.com/@codeninjavik" target="_blank">
+<img src="https://img.shields.io/badge/🎥_YouTube-CodeNinjaVik_Official-red?style=for-the-badge">
+</a>
+
+<br><br>
+
+<a href="https://t.me/codeninja_vik" target="_blank">
+<img src="https://img.shields.io/badge/📢_Telegram-Join_Channel-2CA5E0?style=for-the-badge">
+</a>
+
+<br><br>
+
+<a href="https://instagram.com/codeninjavik" target="_blank">
+<img src="https://img.shields.io/badge/📸_Instagram-@codeninjavik-E4405F?style=for-the-badge">
+</a>
+
+<br><br>
+
+<a href="https://github.com/codeninjavik" target="_blank">
+<img src="https://img.shields.io/badge/💻_GitHub-codeninjavik-black?style=for-the-badge">
+</a>
+
+</p>
 
 ---
 
-## 🎥 YouTube Channel
+## 📬 Contact & Community
 
-CodeNinjaVik Official
+<p align="center">
+
+🌐 Website: <a href="https://codeninjavik.in">codeninjavik.in</a>
+
+🎥 YouTube: <a href="https://youtube.com/@codeninjavik">CodeNinjaVik Official</a>
+
+📢 Telegram: <a href="https://t.me/codeninja_vik">@codeninja_vik</a>
+
+📸 Instagram: <a href="https://instagram.com/codeninjavik">@codeninjavik</a>
+
+💻 GitHub: <a href="https://github.com/codeninjavik">github.com/codeninjavik</a>
+
+</p>
+
+---
+
+## ❤️ Support MYRA
+
+If you enjoy MYRA AI Assistant:
+
+⭐ Star the repository
+
+🍴 Fork the project
+
+📢 Join the Telegram community
+
+🎥 Subscribe to CodeNinjaVik Official
+
+🌐 Visit codeninjavik.in
+
+🚀 Support future MYRA development
 
 ---
 
-## 📢 Telegram Channel
-
-@codeninja_vik
-
----
-
-## 📸 Instagram
-
-@codeninjavik
-
----
-
-## 💻 GitHub
-
-https://github.com/codeninjavik
-
----
 
 # 📂 Project Structure
 
