@@ -351,7 +351,7 @@ Premium users unlock advanced capabilities.
 
 <br><br>
 
-<a href="https://youtube.com/@codeninjavik" target="_blank">
+<a href="https://youtube.com/@codeninjavik_official" target="_blank">
 <img src="https://img.shields.io/badge/🎥_YouTube-CodeNinjaVik_Official-red?style=for-the-badge">
 </a>
 
