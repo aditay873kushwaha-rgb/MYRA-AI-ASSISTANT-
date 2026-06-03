@@ -19,7 +19,7 @@ Voice Commands • AI Automation • Screen Reading • Computer Vision • Syst
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge\&logo=python)
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)
 ![AI](https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-0.1.4-green?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-0.1.5-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
 </p>
