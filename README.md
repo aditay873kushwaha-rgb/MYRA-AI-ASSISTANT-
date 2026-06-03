@@ -456,15 +456,65 @@ MYRA-AI-ASSISTANT/
 
 # 👨‍💻 Developer
 
-## CodeNinjaVik
+<p align="center">
 
-GitHub:
-https://github.com/codeninjavik
+<img src="https://img.shields.io/badge/Developer-CodeNinjaVik-blue?style=for-the-badge">
 
-Website:
-https://codeninjavik.in
+</p>
+
+<h2 align="center">🚀 CodeNinjaVik</h2>
+
+<p align="center">
+Creator of <b>MYRA AI Assistant</b><br>
+AI Developer • Software Developer • Content Creator
+</p>
 
 ---
+
+<p align="center">
+
+<a href="https://github.com/codeninjavik">
+<img src="https://img.shields.io/badge/GitHub-codeninjavik-181717?style=for-the-badge&logo=github">
+</a>
+
+<br><br>
+
+<a href="https://codeninjavik.in">
+<img src="https://img.shields.io/badge/🌐_Website-codeninjavik.in-0A66C2?style=for-the-badge">
+</a>
+
+<br><br>
+
+<a href="https://youtube.com/@codeninjavik">
+<img src="https://img.shields.io/badge/🎥_YouTube-CodeNinjaVik_Official-FF0000?style=for-the-badge&logo=youtube">
+</a>
+
+<br><br>
+
+<a href="https://t.me/codeninja_vik">
+<img src="https://img.shields.io/badge/📢_Telegram-@codeninja__vik-26A5E4?style=for-the-badge&logo=telegram">
+</a>
+
+<br><br>
+
+<a href="https://instagram.com/codeninjavik">
+<img src="https://img.shields.io/badge/📸_Instagram-@codeninjavik-E4405F?style=for-the-badge&logo=instagram">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ❤️ Built with Python, AI & Innovation
+
+### Developed by CodeNinjaVik
+
+</p>
+
+---
+
 
 # 🤝 Contributing
 
