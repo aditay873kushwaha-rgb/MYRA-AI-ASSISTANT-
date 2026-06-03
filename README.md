@@ -351,7 +351,7 @@ Premium users unlock advanced capabilities.
 
 <br><br>
 
-<a href="https://youtube.com/@codeninjavik_official" target="_blank">
+<a href="https://youtube.com/@codeninjavikofficial" target="_blank">
 <img src="https://img.shields.io/badge/🎥_YouTube-CodeNinjaVik_Official-red?style=for-the-badge">
 </a>
 
@@ -383,7 +383,7 @@ Premium users unlock advanced capabilities.
 
 🌐 Website: <a href="https://codeninjavik.in">codeninjavik.in</a>
 
-🎥 YouTube: <a href="https://youtube.com/@codeninjavik">CodeNinjaVik Official</a>
+🎥 YouTube: <a href="https://youtube.com/@codeninjavikofficil">CodeNinjaVik Official</a>
 
 📢 Telegram: <a href="https://t.me/codeninja_vik">@codeninja_vik</a>
 
